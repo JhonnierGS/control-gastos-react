@@ -27,7 +27,7 @@
 
 ## Link
 
-- Puedes ver el proyecto en el siguiente Link => [control gastos](https://dapper-parfait-c7a27f.netlify.app/)
+- Puedes ver el proyecto en el siguiente Link => [control gastos](https://conrol-gastos-c7a27f.netlify.app/)
 
 ## Tecnologias usadas
 - React.js, CSS, HTML, Empaquetador Vite, git versionamiento, Netifly despliegue
